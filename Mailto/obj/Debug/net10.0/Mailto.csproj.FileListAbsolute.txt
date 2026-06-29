@@ -12,3 +12,4 @@ C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net10.0\refint\Mailto.dll
 C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net10.0\Mailto.pdb
 C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net10.0\Mailto.genruntimeconfig.cache
 C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net10.0\ref\Mailto.dll
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net10.0\Mailto.sourcelink.json
