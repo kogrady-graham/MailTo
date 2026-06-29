@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mailto": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\kogrady\\Desktop\\New Text Document (10).txt\" \"This is a subject\" \"kogrady@graham-mfg.com\""
+    }
+  }
+}
