@@ -45,7 +45,7 @@ namespace MailTo
                 });
 
                 // Deletes the body file after the email is created
-                //File.Delete(bodyFile);
+                File.Delete(bodyFile);
 
             }
 
