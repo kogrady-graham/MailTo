@@ -1,0 +1,15 @@
+C:\Users\kogrady\source\repos\Mailto\Mailto\bin\Debug\net8.0\Mailto.exe
+C:\Users\kogrady\source\repos\Mailto\Mailto\bin\Debug\net8.0\Mailto.deps.json
+C:\Users\kogrady\source\repos\Mailto\Mailto\bin\Debug\net8.0\Mailto.runtimeconfig.json
+C:\Users\kogrady\source\repos\Mailto\Mailto\bin\Debug\net8.0\Mailto.dll
+C:\Users\kogrady\source\repos\Mailto\Mailto\bin\Debug\net8.0\Mailto.pdb
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.AssemblyInfoInputs.cache
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.AssemblyInfo.cs
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.csproj.CoreCompileInputs.cache
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.sourcelink.json
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.dll
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\refint\Mailto.dll
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.pdb
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\Mailto.genruntimeconfig.cache
+C:\Users\kogrady\source\repos\Mailto\Mailto\obj\Debug\net8.0\ref\Mailto.dll
