@@ -18,6 +18,7 @@ namespace MailTo
                 // Checks if the arguments were inputted correctly
                 if (args.Length < 3)
                     throw new Exception("Usage: mailto.exe 'bodyfile' 'subject' 'recipient' ");
+              
 
                 string bodyFile = args[0];
                 string subject = args[1];
@@ -52,7 +53,8 @@ namespace MailTo
             //prints the exception to the console if there is an error
             catch (Exception ex)
             {
-               Console.WriteLine(ex.ToString());
+                Console.WriteLine(ex.ToString());
+                Console.ReadKey();
             }
         }
     }
