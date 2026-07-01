@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mailto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68416ac75d7c7a0401981e400f37297a82e2dce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47aa54e4c3445d7f0f2b8d53c4d9c50d995f5921")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mailto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mailto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

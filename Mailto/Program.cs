@@ -16,13 +16,13 @@ namespace MailTo
             try
             {
                 // Checks if the arguments were inputted correctly
-                if (args.Length < 3)
-                    throw new Exception("Usage: mailto.exe 'bodyfile' 'subject' 'recipient' ");
+                if (args.Length < 1)
+                    throw new Exception("Usage: mailto.exe 'bodyfile' Optional:'subject' Optional:'recipient' ");
               
 
                 string bodyFile = args[0];
-                string subject = args[1];
-                string recipient = args[2];
+                string subject = args.Length > 1 ? args[1] : " ";
+                string recipient = args.Length > 2 ? args[2] : " ";
 
                 // Checks if the body file exists
                 if (!File.Exists(bodyFile))
